@@ -1,0 +1,866 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_random_item\tfunction"
+			],
+			[
+				"woo",
+				"WOOL_BLUE\tstatement"
+			],
+			[
+				"DIAMOND",
+				"DIAMOND_ORE\tstatement"
+			],
+			[
+				"draw",
+				"drawSquare\tfunction"
+			],
+			[
+				"myt",
+				"my_turtle2\tstatement"
+			],
+			[
+				"set",
+				"setposition\tstatement"
+			],
+			[
+				"inerh",
+				"innerHTML\tElement"
+			],
+			[
+				"getelement",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"chanl",
+				"channelID"
+			],
+			[
+				"relate",
+				"relatedPlaylists"
+			],
+			[
+				"light",
+				"ligthsliderLoad.js"
+			],
+			[
+				"log",
+				"log_message\tfunction"
+			],
+			[
+				"data",
+				"data\t.data()"
+			],
+			[
+				"lambda",
+				"lambdaFilter\tstatement"
+			],
+			[
+				"t",
+				"test.txt"
+			],
+			[
+				"signup",
+				"SignUpForm\tclass"
+			],
+			[
+				"Si",
+				"SignUpForm\tclass"
+			],
+			[
+				"Sign",
+				"SignUpAdmin\tclass"
+			],
+			[
+				"model",
+				"ModelAdmin\tclass"
+			],
+			[
+				"auto_now",
+				"auto_now\tparam"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"date",
+				"DateTimeField\tclass"
+			],
+			[
+				"emai",
+				"EmailField\tclass"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"page",
+				"page-break-before"
+			],
+			[
+				"getelements",
+				"getElementsByClassName(${0:names})\tElement"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"getelle",
+				"getElementsByClassName(${0:names})\tElement"
+			],
+			[
+				"getel",
+				"getElementById(${0:id})\tElement"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"for",
+				"for()"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"g",
+				"geo_test.js"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/PC/Desktop/python_training/python_learning/codeWars.py",
+			"settings":
+			{
+				"buffer_size": 8340,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 300.0,
+		"last_filter": "git log",
+		"selected_items":
+		[
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Remote"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git",
+				"Git: Quick Status"
+			],
+			[
+				"git repo",
+				"Git: Switch Repo"
+			],
+			[
+				"git ci",
+				"Git: Commit"
+			],
+			[
+				"git quick add",
+				"Git: Quick Add"
+			],
+			[
+				"git add",
+				"Git: Add Remote"
+			],
+			[
+				"git qua",
+				"Git: Quick Add"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"remote ",
+				"Git: Remote"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"git remote ",
+				"Git: Remote"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git quick comit",
+				"Git: Quick Commit"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"qu",
+				"Git: Quick Add"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"python ",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/PC/Desktop/python_training/python_learning",
+		"/C/Users/PC/Desktop/python_training/python_learning/OOP"
+	],
+	"file_history":
+	[
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/scrapping/quotes.json",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/scrapping/quotes_spider.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/scrapping/characters.json",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/scrapping/characters_spider.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/scrapping/quotes_generator.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/quotes_generator.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/quotes.json",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/quotes_json.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OOP/PyOOP.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/codeWars.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/fileCreation.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OOP/classes.py",
+		"/C/Users/PC/Desktop/python_training/URL_checker_project/URLChecker/urlcheckerhtml.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/GoblinGame.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/regex.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/characters.json",
+		"/C/Users/PC/Desktop/python_training/python_learning/automate_the_boring_stuff/try_except.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/toKnow.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/turtleTuto.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/OC/test.py",
+		"/C/Users/PC/Desktop/python_training/python_learning/test.py",
+		"/C/Users/PC/Desktop/python_training/URL_checker_project/URLChecker/urlchecker.py",
+		"/C/Users/PC/.ssh/known_hosts",
+		"/C/Users/PC/Desktop/Python_training/Learning/OOP/classes.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/automate_the_boring_stuff/try_except.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/turtleTuto.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/regex.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/GoblinGame.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/codeWars.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/fileCreation.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/OOP/PyOOP.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/PyOOP.py",
+		"/C/Users/PC/Desktop/Python_training/Learning/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/Python/Learning/GoblinGame.py",
+		"/C/Users/PC/Desktop/Python/Learning/turtleTuto.py",
+		"/C/Users/PC/Desktop/Python/Learning/regex.py",
+		"/C/Users/PC/Desktop/Python/Learning/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/Python/Learning/PyOOP.py",
+		"/C/Users/PC/Desktop/Python/Learning/fileCreation.py",
+		"/C/Users/PC/Desktop/Python/Learning/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/Python/Learning/codeWars.py",
+		"/C/Users/PC/Desktop/Python/Learning/automate_the_boring_stuff/GuessTheNumber.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Packages/mulitpli.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Packages/testdecimale.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/functions/tables.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/functions/save.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/functions/rename_extension.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/functions/multiplications.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/functions/carre.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/functions/convert_to_RTF.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Factorisation/Erat.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Factorisation/Functions.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Factorisation/Facto.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Casino/sCasino999999.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Casino/Casino sdz.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Casino/sCasino3.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Casino/zCasino JO.py",
+		"/C/Users/PC/Desktop/wp-config.php",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/PyOOP.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/GoblinGame.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/fileCreation.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/regex.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/turtleTuto.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/codeWars.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Learning/PythonTutoClasses.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/turtleTuto.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/regex.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/PythonTutoClasses.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/PyOOP.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/GoblinGame.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/codeWars.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Leaning/fileCreation.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/regex.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/PythonTutoClasses.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/PyOOP.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/GoblinGame.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/codeWars.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/fileCreation.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/Tests/turtleTuto.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/turtleTuto.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/regex.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/PythonTutoClasses.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/firstClassFunctions.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/GoblinGame.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/codeWars.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/fileCreation.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/PyOOP.py",
+		"/C/Users/PC/Desktop/OpenClassrooms_parcours/Python/decorators.py",
+		"/C/Users/PC/AppData/Roaming/.minecraft/mcpipy/minecraft_tests.py",
+		"/C/Users/PC/AppData/Roaming/.minecraft/mcpipy/mengersponge.py",
+		"/C/Users/PC/AppData/Roaming/.minecraft/mcpipy/donut.py",
+		"/C/Users/PC/Desktop/CleverProgramming/fileCreation.py",
+		"/C/Users/PC/Desktop/CleverProgramming/turtleTuto.py",
+		"/C/Users/PC/Desktop/CleverProgramming/codeWars.py",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/regex.py",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/GoblinGame.py",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/PyOOP.py",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/PythonTestingFunctions.py",
+		"/C/Users/PC/Dropbox/Galerie Orsay Paris/galerieorsay_production_2017-06-06.sql",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/PythonTutoClasses.py",
+		"/C/Users/PC/AppData/Local/Temp/$$_D603/galerieorsay_production_2017-06-06.sql",
+		"/C/Users/PC/Desktop/.htaccess",
+		"/F/Users/PC/Documents/Créations/Prog/Python/count_len_file.py",
+		"/C/Users/PC/Desktop/CleverProgramming/turtle.py",
+		"/C/Users/PC/Dropbox/Quenmille/OpenClassrooms parcours/Python/PythonTestingFunctions.py",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/functions.php",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/css/ytEmbed.css",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/js/ytEmbed.js",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/js/ytLoad.js",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/index.html",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/css/lightslider.css",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/js/lightsliderLoad.js",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/homepage_sliding_vids/js/hoverForMore.js",
+		"/C/Users/PC/Desktop/Projets en cours/Atelier de Roxane/Elements/css/custom.css",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/decorators.py",
+		"/C/Users/PC/Desktop/OpenClassrooms parcours/Python/test.py",
+		"/C/Users/PC/Downloads/jQuery.hoverForMore.js",
+		"/C/Users/PC/Desktop/lightslider.css"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\"quote\": \"+\"},\n",
+			"f",
+			"sub",
+			"Camille",
+			"nbflot",
+			"range",
+			"number",
+			"nbcarré",
+			")+([\\.-]*(\\",
+			"+length-1",
+			"length-1",
+			"1",
+			"match",
+			"repition",
+			"present",
+			"my_star",
+			"drawSquare",
+			"my_turtle",
+			"my_turtle2",
+			"100",
+			"second",
+			"\"=\"",
+			"(\"=\"*",
+			"h2margin",
+			"h2padding",
+			"padding",
+			"4",
+			"100",
+			"nonLatinCharReplace",
+			"targetSelector",
+			"on",
+			"hoverformore",
+			"live",
+			"<a href=\"https://www.youtube.com/embed/'+videoId+'\" data-lity><li class=\"youtube-player lslide\" data-id=\"'+videoId+'\"></li><div class=\"description\"><div class=\"centered\"><p>'+videoTitle+'</p></div></div></a>",
+			"targetSelector",
+			"live",
+			"div",
+			"white",
+			"25px",
+			"10px",
+			"bloc-sup",
+			"main_slide",
+			"600",
+			"p",
+			"blue-btn",
+			">\n",
+			"figure",
+			"h2",
+			"test",
+			"getElementById",
+			"popup",
+			"hasActive",
+			"lightslider",
+			"TutoDeLoulouPageLink",
+			"FoodPornPageLink",
+			"\"",
+			"playlistId",
+			"'AIzaSyCm5uKk1YLj98nGksfLC0vhgvJ-6ibCB-o'",
+			"lity",
+			"lity_loading",
+			"outputLoulou",
+			"outputFoodporn",
+			"output",
+			">\n",
+			"lSSlideWrapper ",
+			"usingc",
+			".lSAction > .lSPrev",
+			"lsprev",
+			"width",
+			"prev",
+			"controls",
+			"3s",
+			"ytLoad",
+			"render",
+			"Render",
+			"render",
+			"});\n",
+			"nom_image",
+			"my_args",
+			"vidsId",
+			"parentOfElementToBeRedrawn",
+			"async",
+			"div",
+			"ul",
+			"lslide",
+			"iframe",
+			"data-id",
+			"youtube-player",
+			"src",
+			"\"",
+			"4",
+			"”",
+			"’",
+			"‘",
+			"words",
+			")))\n",
+			"165",
+			"165px",
+			">\n",
+			"responsive",
+			"id",
+			"lightSlider",
+			"lightslider",
+			"lightSlider",
+			"$",
+			"undefined",
+			"responsive",
+			"}\n",
+			"lightSlider",
+			"custom-script",
+			"custom",
+			"3",
+			"suivant",
+			"premier",
+			"0",
+			"a",
+			"');\n",
+			"nav",
+			"entetePortfo_photoshop",
+			"h2",
+			"Alice",
+			"name",
+			"model",
+			"home2",
+			"has-sub",
+			"menu",
+			"mobile",
+			"mobile-menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/PC/Desktop/python_training/python_learning/codeWars.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8340,
+								8340
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 203.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 98.0
+	},
+	"output.git-init":
+	{
+		"height": 98.0
+	},
+	"output.git-push":
+	{
+		"height": 98.0
+	},
+	"output.git-remote":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "scrapping_oc.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
