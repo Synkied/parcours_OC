@@ -1,0 +1,6 @@
+curl -u XXXXXXXXXXX:XXXXXXXXX -X POST \
+--header "Content-Type: application/json" \
+--header "Accept: audio/wav" \
+--data "{\"text\":\"やめてください\"}" \
+--output yameru.wav \
+"https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?voice=ja-JP_EmiVoice"
